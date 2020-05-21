@@ -1,0 +1,1 @@
+insert into bookstoreinformation values (2,'java')
